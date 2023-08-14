@@ -1,0 +1,26 @@
+.accordion-container {
+  width: 80%;
+  margin: 0 auto;
+  font-family: Arial, sans-serif;
+}
+
+.accordion {
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.accordion-button {
+  width: 100%;
+  padding: 10px;
+  background-color: #f0f0f0;
+  border: none;
+  text-align: left;
+  cursor: pointer;
+}
+
+.accordion-content {
+  padding: 10px;
+  background-color: #f9f9f9;
+}

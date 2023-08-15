@@ -1,5 +1,5 @@
 import AccordionBody from "../mini-projects/1.Accordion/Accordion";
-import CheckboxSelectAll from "../mini-projects/2.Checkbox/CheckboxSelectAll";
+import SingularCheckbox from "../mini-projects/2.Checkbox/SingularCheckbox";
 
 const createRouterPath=[
     {
@@ -10,7 +10,7 @@ const createRouterPath=[
     {
         path:"/checkbox",
         exact :true,
-        element:<CheckboxSelectAll/>
+        element:<SingularCheckbox/>
     }
 ]
 

@@ -1,0 +1,5 @@
+• created two input fields
+• The selected operation will be between two input fields.
+• The total operation will be 4 If operation is selected, then class will be active.
+• Reset button: when you click on the Reset button, by default operation will be plus
+• count how many times we clicked on all operations.

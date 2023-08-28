@@ -1,0 +1,5 @@
+○ If you click the load more button, single-page pagination data will be displayed
+  on a single page.
+○ This pagination component enables you to dynamically load additional items when 
+  the "Load More" button is selected while displaying a set number of items on a 
+  single page.

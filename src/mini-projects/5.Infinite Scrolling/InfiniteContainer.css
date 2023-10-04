@@ -1,0 +1,38 @@
+:root {
+  --color-dark: #04003F;
+  --color-white: #fff;
+  --height: 100vh;
+}
+
+.infinite-loading {
+  min-height: var(--height);
+  color: var(--color-white);
+  background-color: var(--color-dark);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 4rem;
+  font-weight: 800;
+}
+.infinite-error {
+  min-height: var(--height);
+  color: var(--color-white);
+  background-color: var(--color-dark);
+}
+.custom-height-infinite {
+  min-height: var(--height);
+  background-color: var(--color-dark);
+  color: var(--color-white);
+}
+.infinite-horizental-line {
+  width: 50%;
+  margin: auto;
+  border-top: 0.313rem solid rgba(252, 252, 252, 0.999);
+  padding: 2.813rem;
+}
+
+.infinite-images {
+  box-shadow: rgba(50, 50, 93, 1) 0px 50px 100px -20px,
+    rgba(252, 252, 252, 0.953) 0px 30px 60px -30px,
+    rgba(252, 252, 252, 0.349) 0px -2px 6px 0px inset;
+}
